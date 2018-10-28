@@ -35,6 +35,12 @@ Tech. Demo: https://zack17.github.io/ocdh2018/
 
 Design Demo (not functional): https://tempestas.ch/artify/
 
+4th SOCDH http://make.opendata.ch/wiki/event:2018-10
+
+http://make.opendata.ch/wiki/project:personal_museum_guide
+
+![Demo](Demo2.png)
+
 ### Team
 
 - Anastasiya Korotkova
@@ -46,12 +52,3 @@ Design Demo (not functional): https://tempestas.ch/artify/
 
 
 
-
-
-
-
-
-
-http://make.opendata.ch/wiki/project:personal_museum_guide
-
-http://make.opendata.ch/wiki/event:2018-10
